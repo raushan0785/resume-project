@@ -1,0 +1,470 @@
+body{
+    margin:0px;
+}
+#body-header{
+    height:65vh;
+    background-image: url(macbook_mouse.jpg);
+    background-position: center;
+    background-attachment:scroll;
+    background-size: cover;
+    position:relative;
+}
+.horizontal-list{
+    text-align: center;
+    font-size: 30px;
+}
+.horizontal-list li{
+    display:inline-block;
+    margin:0px 8px 8px 0px;
+    text-decoration: none;
+    text-align: center;
+    text-decoration: none;
+}
+.horizontal-list a{
+    text-decoration:underline;
+    text-align:c;
+    color: white;
+    transition:0.5s;
+
+    
+}
+.horizontal-list a:hover{
+    color:red;
+}
+#my_name{
+    font-weight:bolder;
+    text-transform: uppercase;
+    text-align: center;
+    color: white;
+    margin-top: 80px;
+    font-size:100px;
+
+
+}
+.logo{
+    text-align: center;
+   
+}
+ .lg li{
+
+    margin-top: 10px;
+    margin-right: 10px;
+ display:inline-block;
+ }
+ .lg img:hover{
+    border-radius: 50%;
+ box-shadow: 0px 0px 6px 4px red;
+ }
+
+
+#Home{
+    
+    height:auto;
+    width:100%;
+    position: relative;
+}
+#my-mg{
+  
+    height:12rem;
+    width:12rem;
+    margin:auto
+
+
+   
+}
+#my-mg img{
+    border-radius: 100%;
+ 
+    margin-top: -17vh;
+    height:100%;
+    width:100%;
+    margin-bottom: 20px;
+}
+#para{
+margin-top:-50px;
+margin-left: 230px;
+margin-right:230px;
+font-size: 20px;
+
+}
+
+.highlight{
+    font-weight: bold;
+    color: blue;
+}
+#skillsg{
+    text-align: center;
+}
+#skillsg img{
+    height:30px;
+    width:30px;
+    
+    display: inline-block;
+}
+#skillsg #skills{
+    color:blue;
+    font-size: 30px;
+    display:inline-block;
+}
+.skillsf{
+    height:18vh;
+    width:18vw;
+    display:flex;
+    flex-wrap: wrap;
+   
+    
+    justify-content: space-between;
+margin-left: 600px;
+margin-right:600px;
+
+
+
+
+}
+.skill{
+    height:30px;
+    width:80px;
+    background-color: lightgray;
+    
+    border-radius: 0.4rem;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    
+}
+.skilla{
+    height:30px;
+    width:80px;
+    background-color: lightgray;
+    
+    border-radius: 0.4rem;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    
+}
+.skillb{
+    height:30px;
+    width:80px;
+    background-color: lightgray;
+    
+    border-radius: 0.4rem;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    
+}
+.skillc{
+    height:30px;
+    width:80px;
+    background-color: lightgray;
+    
+    border-radius: 0.4rem;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    
+}
+.skilld{
+    height:30px;
+    width:80px;
+    background-color: lightgray;
+    
+    border-radius: 0.4rem;
+    margin-bottom: 20px;
+    margin-right: 80px;
+}
+.skille{
+    height:30px;
+    width:80px;
+    background-color: lightgray;
+    
+    border-radius: 0.4rem;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    
+}
+.skill1{
+    height:30px;
+    width:95%;
+    background-color:orange;
+    color: white;
+    size: 20px;
+    border-radius:10%;
+    
+}
+.skill2{
+    height:30px;
+    width:75%;
+    background-color:purple;
+    color: white;
+    size: 20px;
+    border-top-left-radius: 0.4px;
+    
+}
+.skill3{
+    height:30px;
+    width:45%;
+    background-color:greenyellow;
+    color: white;
+    size: 20px;
+    border-top-left-radius: 0.4px;
+    
+}
+.skill4{
+    height:30px;
+    width:65%;
+    background-color:red;
+    color: white;
+    size: 20px;
+    border-top-left-radius: 0.4px;
+    
+}
+.skill5{
+    height:30px;
+    width:80%;
+    background-color: green;
+    color: white;
+    size: 0px;
+    border-top-left-radius: 0.4px;
+    
+}
+.skill6{
+    height:30px;
+    width:70%;
+    background-color: rgb(255, 0, 200);
+    color: white;
+    size: 20px;
+border-top-left-radius: 0.4px;
+    
+}
+#work{
+    text-align:center;
+
+}
+#work img{
+    
+height:30px;
+width:30px;
+display:inline-block;
+margin-top: 30px;
+}
+
+    #work #w{
+    font-size: 30px;
+    color:blue;
+    display:inline-block;
+    
+    
+    
+}
+#w{margin-top: -2px;}
+#multiple{
+    text-align:center;
+    width:50rem;
+    height:50rem;
+    /* border:1px solid black; */
+    margin-left: 400px;
+    position:relative;
+    /* display: flex;
+    flex-wrap: wrap; */
+}
+#multiple-box{
+    width:40%;
+    height:23%;
+    position:relative;
+    margin:5px;
+    }
+ 
+    #multiple-box img{
+        height:60px;
+        width:60px;
+        margin-right: 500px;
+        display:inline-block;
+    }
+    #multiple-box h5{
+        height:2%;
+        width:10px;
+        size:100rem;
+        margin-top: -4rem;
+        /* position:relative; */
+        /* margin-bottom:500px; */
+        margin-left:260px;
+         color:blue;
+        /* display:inline-block;  */
+    }
+    #multiple-box h1{
+        /* height:2%;
+        width:10px;
+        size:100rem; */
+        margin-top:1.5rem;
+     /* position:relative;  */
+        /* margin-bottom:500px; */
+        margin-left:160px;
+         color:black;
+    }
+    #multiple-box h4{
+       /* height:2%;
+        width:10px;
+        size:100rem; */
+        margin-top:-1.5rem;
+     /* position:relative;  */
+        /* margin-bottom:500px; */
+        margin-left:180px;
+         color:black;  
+    }
+
+
+#multiple-box:nth-child(2n){
+    margin-left:53%
+}
+.timeline-divider{
+    position:absolute;
+    height:75%;
+    width:0;
+    border:3px dashed #0096fa6b;
+    top:10%;
+    left:50%;
+}
+.timeline-traveller img{
+    height:30px;
+    width:30px;
+    position:sticky;
+    top:25%;
+    transform:rotate(180deg);
+    margin-right: 3px;
+  
+    
+    
+
+
+    
+}
+#multiple-box:nth-child(2n+1)::after{
+    content:'';
+    position:absolute;
+    top:30%;
+    right:-26%;
+border-radius: 50%;
+width:0.5rem;
+height:0.5rem;
+background-color: red;
+
+}
+#multiple-box:nth-child(2n)::after{
+    content:'';
+    position:absolute;
+    top:30%;
+    left:-7%;
+    
+border-radius: 50%;
+width:0.5rem;
+height:0.5rem;
+background-color: red;
+
+}
+#contact{
+     /* text-align:center;
+    width:50rem;
+    height:50rem;
+    border:1px solid black;
+    margin-left: 400px;  */
+/* 
+    position:relative; */
+    height:65vh;
+    background-position: fixed;
+    background-size: cover;
+    background-color: rgb(132, 132, 167);
+}
+#contact img{
+    margin-left: 50rem;
+    margin-top:2rem;
+    display: inline;
+    
+}
+#contact h1{
+    display:inline;
+    font-display: 100px;
+    color: blanchedalmond;
+    margin-top: 1rem;
+}
+#sect{
+    text-align:center;
+    width:50rem;
+    height:25rem;
+    /* border:1px solid black;  */
+    margin-left: 400px;
+    position:relative;
+}
+#sect1{
+    width:20rem;
+    height:15rem;
+    display:inline-block;
+    margin:5px;
+    /* border:1px solid black; */
+}
+#sect1 h4{
+    color:rgb(109, 104, 104);
+    margin-right: 10rem;
+}
+#sect2{
+    width:20rem;
+    height:10rem;
+    display:inline-block;
+    margin:5px;
+    /* border:1px solid black; */
+}
+#sect2 h2{
+    color:white;
+font-display: 100px;
+margin-top: 2rem;
+}
+ #loc img{
+     margin-left:-15rem;
+    margin-bottom:0rem;
+    display: inline;
+}
+#loc h6{
+    display:inline;
+    /* font-display: 100px;
+    color: blanchedalmond;
+    margin-top: 1rem; */
+}
+ #phone h6{
+    display:inline;
+    /* font-display: 100px;
+    color: blanchedalmond;
+    margin-top: 1rem; */
+}
+#email h6{
+    display:inline;
+    /* font-display: 100px;
+    color: blanchedalmond;
+    margin-top: 1rem; */
+}
+#phone img{
+    margin-left:-15rem;
+    margin-bottom:0rem;
+    display: inline;
+}
+#email img{
+    margin-left:-10rem;
+    margin-top:2rem;
+    display: inline;
+}  
+#linkedin img{
+margin-left:5rem;
+display:inline
+}
+#linkedin h4{
+    display:inline;
+}
+#git img{
+    margin-left:5rem;
+    display:inline
+    }
+    #git h4{
+        display:inline;
+    }
+    #contacts{
+        text-align: center;
+    }
+
+
+
